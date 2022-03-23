@@ -1,2 +1,5 @@
+__pycahe__
+*.pyc
+*.sqlite
 web/
 .env
